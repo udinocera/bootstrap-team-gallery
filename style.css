@@ -23,6 +23,7 @@ h6{
     display:block;
     margin:0px auto;
     text-align:center;
+   
     
    
 }
@@ -37,7 +38,15 @@ width: ;
 }
 
 .row{
-
-
+    padding-top: 1cm;
+    padding-left: 9cm;
+    padding-right: 9cm;
     
+}
+
+
+.fst-normal{
+
+    text-align:center;
+    font-size: 10px;
 }
