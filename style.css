@@ -1,0 +1,43 @@
+h3{
+    text-align: center;
+    color: green;
+}
+
+h5{
+    text-align: center  ;
+}
+
+h6{
+    color: gray;
+    text-align: center;
+        
+}
+
+.nomi{
+    color: green;
+    text-align: center;
+    
+}
+
+.col-lg-3{
+    display:block;
+    margin:0px auto;
+    text-align:center;
+    
+   
+}
+
+.foto{
+position: relative;
+width: 200px;
+height: 200px;
+overflow: hidden;
+border-radius: 50%;
+width: ;
+}
+
+.row{
+
+
+    
+}
